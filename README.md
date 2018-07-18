@@ -3,7 +3,7 @@
 #### 项目介绍
 Recyclerview 仿QQ 滑动删除、置顶。自定义Recyclerview配合自定义Layout,结合ViewDragHelper,效果更好。
 
-  ![image](https://github.com/YinCanSheng/itemSkid/tree/master/itemSkid/gif/itemskid.gif)
+  ![image](https://github.com/YinCanSheng/itemSkid/tree/master/gif/itemskid.gif)
 
 #### 功能说明
 
