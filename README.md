@@ -12,3 +12,5 @@ Recyclerview 仿QQ 滑动删除、置顶。自定义Recyclerview配合自定义L
 
 1. `MSkidRecyclerView`,自定义的Recyclerview
 2. `MSkidLayout`,自定义的Recyclerview子Item根布局
+
+gif演示图在项目gif文件夹中
